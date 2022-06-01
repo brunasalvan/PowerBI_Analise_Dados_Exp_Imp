@@ -6,7 +6,7 @@ Análise de dados de exportação e importação de produtos de classificação 
 - Para essa atividade extraí os dados do portal do Governo Federal disponíveis [aqui](https://dados.gov.br/dataset/estatisticos-do-comercio-exterior-brasileiro-de-bens/resource/d45d96ff-41e1-4c5e-bddd-5b633e1926a4?inner_span=True) e os importei para o Power BI onde pude fazer dois dashboards (um referente às exportações e outro às importações) e algumas análises.
 - As planilhas de exportação e importação disponíveis no link são em formato .csv e contém todos os dados referentes ao período de 1997 a 2022, e a todas as classificações de produtos (NCM).
 - Além disso foram importadas também as planilhas referentes ao código de país e via de transporte.
-- As análises feitas a partir dos dashboards constam no documento "Analise_Exp_Imp_Brasil_NCM61.pdf" e os dashboards estão em formato .pdf e .png.
+- As análises feitas a partir dos dashboards constam no documento "Analise_Exp_Imp_Brasil_NCM61.pdf" e os dashboards estão em formato .pdf.
 
 ## Tecnologia
 
