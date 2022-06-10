@@ -19,5 +19,5 @@ Análise de dados de exportação e importação de produtos de classificação 
 - [x] Relacionamento entre as três tabelas (Importação/exportação, classificação de países, código de via de transporte);
 - [x] Filtragem da coluna ANO para 2019 a 2021;
 - [x] Filtragem da coluna NCM para string iniciada em 61 (a análise era somente para NCM 61);
-- [x] Criação dos dashboards;
+- [x] Desenvolvimento dos dashboards;
 - [x] Análise e conclusões a partir dos dashboards.
