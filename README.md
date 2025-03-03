@@ -1,23 +1,23 @@
-# Analise_Dados_Exp_Imp
-Análise de dados de exportação e importação de produtos de classificação NCM 61 realizadas no período de 2019 a 2021 pelo Brasil.
+# Data_Analysis_Exp_Imp
+Analysis of export and import data for products classified under NCM 61, conducted from 2019 to 2021 across Brazil.
 
-## Sobre
+## About
 
-- Para essa atividade extraí os dados do portal do Governo Federal disponíveis [aqui](https://dados.gov.br/dataset/estatisticos-do-comercio-exterior-brasileiro-de-bens/resource/d45d96ff-41e1-4c5e-bddd-5b633e1926a4?inner_span=True) e os importei para o Power BI onde pude fazer dois dashboards (um referente às exportações e outro às importações) e algumas análises.
-- As planilhas de exportação e importação disponíveis no link são em formato .csv e contém todos os dados referentes ao período de 1997 a 2022, e a todas as classificações de produtos (NCM).
-- Além disso foram importadas também as planilhas referentes ao código de país e via de transporte.
-- As análises feitas a partir dos dashboards constam no documento "Analise_Exp_Imp_Brasil_NCM61.pdf" e os dashboards estão em formato .pdf.
+- For this activity, I extracted data from the Federal Government portal available [here](https://dados.gov.br/dataset/estatisticos-do-comercio-exterior-brasileiro-de-bens/resource/d45d96ff-41e1-4c5e-bddd-5b633e1926a4?inner_span=True) and imported it into Power BI, where I created two dashboards (one for exports and another for imports) and conducted some analysis.
+- The export and import spreadsheets available at the link are in .csv format and contain data from 1997 to 2022 for all product classifications (NCM).
+- Additionally, spreadsheets for country codes and transport modes were also imported.
+- The analyses derived from the dashboards are documented in "Analise_Exp_Imp_Brasil_NCM61.pdf," and the dashboards are in .pdf format.
 
-## Tecnologia
+## Technology
 
   - Power BI
   
-## Etapas
+## Steps
   
-- [x] Carregamento das tabelas de exp. e imp. .csv completas no Power BI;
-- [x] Importação de outras duas tabelas de correlação e classificação para os códigos das colunas "Código País" e "Código Via Transporte";
-- [x] Relacionamento entre as três tabelas (Importação/exportação, classificação de países, código de via de transporte);
-- [x] Filtragem da coluna ANO para 2019 a 2021;
-- [x] Filtragem da coluna NCM para string iniciada em 61 (a análise era somente para NCM 61);
-- [x] Desenvolvimento dos dashboards;
-- [x] Análise e conclusões a partir dos dashboards.
+- [x] Loading the complete export and import .csv tables into Power BI;
+- [x] Importing two additional correlation and classification tables for the "Country Code" and "Transport Mode Code" columns;
+- [x] Establishing relationships between the three tables (Import/Export, Country Classification, Transport Mode Code);
+- [x] Filtering the "YEAR" column for 2019 to 2021;
+- [x] Filtering the "NCM" column for strings starting with 61 (the analysis was focused solely on NCM 61);
+- [x] Developing the dashboards;
+- [x] Analyzing and drawing conclusions from the dashboards.
