@@ -1,4 +1,4 @@
-# Data_Analysis_Exp_Imp
+# PowerBI_Data_Analysis_Exp_Imp
 Analysis of export and import data for products classified under NCM 61, conducted from 2019 to 2021 across Brazil.
 
 ## About
